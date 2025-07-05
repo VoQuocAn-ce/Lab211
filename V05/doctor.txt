@@ -1,0 +1,9 @@
+Doctor,DOC 9,My,Ophthalmology,4
+Doctor,DOC 8,An,Oncology,2
+Doctor,DOC 10,Tuan,General Surgery,1
+Doctor,DOC 3,Lien,Orthodontic,1
+Doctor,DOC 12,An,Orthodontic,2
+Doctor,DOC 2,Phuong,General Practitione,2
+Doctor,DOC 1,Thuan,Orthodontic,0
+Doctor,DOC 7,Huy,Neurology,3
+Doctor,DOC 6,Hoa,Dermatology,2
